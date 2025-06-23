@@ -4,7 +4,7 @@ A simple web app that fetches random dog images from the [Dog CEO API](https://d
 
 ## 🚀 Live Demo
 
-🔗 [View the Live Site]
+🔗 [View the Live Site](https://dog-api-viewer.vercel.app/)
 
 ## 📸 Features
 
